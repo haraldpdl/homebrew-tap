@@ -1,4 +1,4 @@
-# 🍺 Harald Ponce de Leon's Homebrew Tap
+# 🍺 My Homebrew Tap
 
 A personal [Homebrew](https://brew.sh) tap for my open-source command-line tools — install any of them with a single `brew install`.
 
